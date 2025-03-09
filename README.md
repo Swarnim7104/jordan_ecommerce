@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_notes
 
 A new Flutter project.
@@ -14,3 +15,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# jordan_ecommerce
+# jordan_ecommerce
+# jordan_ecommerce
+>>>>>>> 9603dafb4c1735788b322057b502a1b80a0fa226
