@@ -1,22 +1,10 @@
-<<<<<<< HEAD
-# flutter_notes
+# E-Commerce UI in Flutter
 
-A new Flutter project.
+A simple, responsive eCommerce app UI built using Flutter. This project serves as a foundation for building eCommerce applications and focuses primarily on the user interface (UI).
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# jordan_ecommerce
-# jordan_ecommerce
-# jordan_ecommerce
->>>>>>> 9603dafb4c1735788b322057b502a1b80a0fa226
+- **Home Page**: Displays a list of products with their images, prices, and titles.
+- **Product Details Page**: Shows detailed information about the selected product.
+- **Cart Page**: Displays the products added to the cart with the total price.
+- **Responsive Design**: The UI adapts to different screen sizes (mobile/tablet).
